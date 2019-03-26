@@ -1,0 +1,17 @@
+h1{
+	color:#00ff00;	
+}
+h3{
+	text-align: center;
+	font-family: Verdana, Ariel; /*isso e a merda de um comentario*/
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline overline ;
+	text-transform: uppercase; /* no html em caixa baixa no css caixa alta tnm tem lower case e captaliz*/
+	text-indent: 50px;
+	text-shadow:-5px 5px 2px #f00;
+	text-shadow:10px 10px 2px #f00;
+	letter-spacing: 5px;
+	line-height: 20px;
+	word-spacing: 5px;
+}

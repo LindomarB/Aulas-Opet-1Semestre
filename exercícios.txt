@@ -1,0 +1,54 @@
+1) Porque é importante entender a História da Computação?
+2) Qual foi o primeiro instrumento de cálculo utilizado pelo homem?
+3) Qual é a origem da palavra “computador”?
+4) Descreva uma contribuição significativa, na área da computação, de cada uma das
+pessoas apresentadas a seguir: 
+	a) Blaise Pascal. 
+	b) Gottfried Wilhelm Leibnitz.
+	c) Charles Babbage. 
+	d) Ada Byron King. 
+	e) Alan Turing. 
+	f) Konrad Zuze. 
+	g) John von Neumann. 
+	h) Herman Hollerith.
+	i) Joseph Jacquard.
+5) Qual a importância da máquina de Pascal para a história dos computadores?
+6) Qual foi a influência dos Bastões de Napier nas invenções que se seguiram?
+7) Porque Charles Babagge é conhecido como o pai do computador?
+8) Explique resumidamente os elementos presentes na ordem cronológica abaixo:
+	a) Ábaco
+	b) Eniac
+	c) Transistor
+	d) Chip
+	e) Microprocessador
+9)Na história dos computadores, quais inventos você achou mais significativos (explique)?
+10)Cite alguns problemas que o uso de válvulas provocava nos computadores de 1ª geração.
+11)O que diferencia os computadores de 1ª geração dos da 2ª?
+12)O que contribui para que os computadores, na sua evolução, sejam significativamente menores que seus antecessores?
+13)Explique sucintamente o funcionamento da Máquina de Turing
+14)Que problema existente na época foi resolvido pela Arquitetura de Von Neumann?
+15)Qual foi a primeira linguagem de programação? Em que ano foi desenvolvida?
+16)Qual é a origem da expressão “bugs” utilizada quando um programa tem algum defeito?
+17)O que é um supercomputador?
+18) O que são mainframes e quem utiliza? 
+19)O que são Servidores?
+20) Na história dos computadores, quais inventos você achou mais significativos? Por quê?
+
+21) Justifique a afirmação:
+“A etapa principal no desenvolvimento de uma ciência é a construção de teorias, a serem confirmadas ou rejeitadas pela experimentação. No caso, vimos que a ciência progrediu a partir de teorias originadas muito antes que a tecnologia pudesse produzir as máquinas preconizadas pelos antigos pesquisadores.” 
+
+22) Leia o texto abaixo e analise a questão a seguir:
+“À medida que a tecnologia avança, nosso sistema educacional vai sendo constantemente desafiado a reconsiderar o nível de abstração em que são apresentados os diversos assuntos estudados. Questiona-se muitas vezes se uma certa habilidade do aluno continua sendo necessária, ou se deveria ser permitido aos estudantes apoiarem-se em uma ferramenta abstrata. Não se ensina mais os estudantes de trigonometria a encontrar os valores das funções trigonométricas com o uso de tabelas. Em vez disso, eles empregam calculadores eletrônicas como ferramentas abstratas.”
+Que outros assuntos apresentam controvérsias semelhantes? Algum dia, o uso de vídeo eliminará a necessidade de leitura? Verificadores automáticos de ortografia eliminarão a necessidade de habilidades ortográficas?
+Descreva sobre o que a evelução dos computadores mudou nas atividades das pessoas, e quais projeções você acredita que faram parte do futuro das pessoas.
+
+23) Leia o texto abaixo e analise a questão a seguir: 
+“É em geral aceita a premissa de que a nossa sociedade é diferente do que teria sido se a revolução da computação não tivesse ocorrido.”
+Na sua opinião, nossa sociedade é melhor do que teria sido sem essa revolução? 
+
+24) Calcular! Sobre efeturar calculos numéricos e as ferramentas utilizadas para tanto, marque a alternativa correta considerando a ordem cronológica:
+a) Ábaco, Eniac, Chip, Transistor e Microprocessador
+b) Eniac, Ábaco, Chip, Transistor e Microprocessador
+c) Ábaco, Eniac, Chip, Microprocessador e Transistor
+d) Ábaco, Eniac, Transistor, Chip e Microprocessador
+e) Nenhuma das Alternativas.
